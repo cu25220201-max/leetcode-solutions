@@ -10,3 +10,19 @@ Every problem folder contains:
 
 ## 📊 Automated Sync
 All solutions in this repository are auto-pushed directly from LeetCode upon submission.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
