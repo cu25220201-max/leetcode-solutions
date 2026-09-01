@@ -1,34 +1,19 @@
-#include <iostream>
 #include <vector>
-#include <algorithm>
-
+#include <unordered_map>
 using namespace std;
+
 
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-        int maxSum = nums[0];
-        int currentSum = 0;
-
-        for (int num : nums) {
-            currentSum += num;
-            maxSum = max(maxSum, currentSum);
-            
-            // Agar currentSum negative ho jaye toh reset kar do
-            if (currentSum < 0) {
-                currentSum = 0;
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> mp;
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
+            if (mp.find(complement) != mp.end()) {
+                return {mp[complement], i};
             }
+            mp[nums[i]] = i;
         }
-
-        return maxSum;
+        return {};
     }
 };
-
-int main() {
-    Solution sol;
-    vector<int> nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-    
-    cout << "Maximum Subarray Sum: " << sol.maxSubArray(nums) << endl;
-
-    return 0;
-}
