@@ -82,11 +82,13 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0027-remove-element](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
