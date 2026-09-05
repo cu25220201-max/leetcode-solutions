@@ -33,6 +33,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0024-swap-nodes-in-pairs](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
