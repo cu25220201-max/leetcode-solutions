@@ -37,4 +37,16 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
