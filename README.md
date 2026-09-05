@@ -34,6 +34,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
