@@ -48,6 +48,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,4 +71,8 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
