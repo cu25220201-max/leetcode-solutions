@@ -58,6 +58,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0005-longest-palindromic-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,4 +95,5 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
