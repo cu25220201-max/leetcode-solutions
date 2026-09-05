@@ -66,6 +66,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
