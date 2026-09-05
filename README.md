@@ -46,6 +46,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0010-regular-expression-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +83,8 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
