@@ -53,6 +53,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -110,6 +112,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +121,5 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
