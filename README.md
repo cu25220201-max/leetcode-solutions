@@ -17,6 +17,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
