@@ -21,6 +21,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
