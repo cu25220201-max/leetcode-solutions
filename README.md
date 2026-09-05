@@ -61,6 +61,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0014-longest-common-prefix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0018-4sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0011-container-with-most-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0015-3sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
