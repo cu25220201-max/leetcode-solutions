@@ -89,6 +89,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0036-valid-sudoku](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0022-generate-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
