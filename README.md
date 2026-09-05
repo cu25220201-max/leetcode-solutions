@@ -30,6 +30,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0009-palindrome-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -162,4 +163,8 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
