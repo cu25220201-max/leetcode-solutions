@@ -112,6 +112,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0057-insert-interval) |
 ## Binary Search
 |  |
 | ------- |
