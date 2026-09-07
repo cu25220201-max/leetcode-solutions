@@ -109,6 +109,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +231,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0036-valid-sudoku](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -248,4 +250,5 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
