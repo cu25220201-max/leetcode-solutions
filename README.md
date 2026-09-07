@@ -108,6 +108,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0048-rotate-image](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0042-trapping-rain-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
