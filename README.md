@@ -176,6 +176,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0046-permutations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +232,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0037-sudoku-solver](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
