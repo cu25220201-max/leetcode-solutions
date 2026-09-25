@@ -38,6 +38,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0060-permutation-sequence](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +86,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -253,6 +255,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +287,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0043-multiply-strings](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 ## Quicksort
 |  |
 | ------- |
