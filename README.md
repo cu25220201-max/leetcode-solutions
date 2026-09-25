@@ -122,6 +122,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0057-insert-interval](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0055-jump-game](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Manacher
 |  |
@@ -257,6 +259,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Algorithm X
 |  |
