@@ -91,6 +91,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0072-edit-distance) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -178,6 +179,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0072-edit-distance) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Manacher
 |  |
