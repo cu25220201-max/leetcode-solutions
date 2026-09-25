@@ -83,6 +83,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0044-wildcard-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0065-valid-number) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
