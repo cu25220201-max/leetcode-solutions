@@ -90,6 +90,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0065-valid-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -222,6 +223,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0020-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0071-simplify-path) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
