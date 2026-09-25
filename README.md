@@ -87,6 +87,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0058-length-of-last-word](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0068-text-justification) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0068-text-justification) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
@@ -288,6 +290,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0054-spiral-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
