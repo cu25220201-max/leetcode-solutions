@@ -141,6 +141,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0073-set-matrix-zeroes](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
@@ -229,6 +230,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -277,6 +279,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | ------- |
 | [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
