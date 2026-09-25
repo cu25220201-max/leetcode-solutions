@@ -37,6 +37,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0050-powx-n](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0059-spiral-matrix-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0066-plus-one) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
