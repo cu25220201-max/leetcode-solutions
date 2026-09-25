@@ -228,6 +228,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0047-permutations-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0077-combinations) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
