@@ -60,6 +60,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0037-sudoku-solver](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0044-wildcard-matching](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,6 +185,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0047-permutations-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,12 +198,14 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0047-permutations-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -275,4 +280,8 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
