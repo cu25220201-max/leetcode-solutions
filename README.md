@@ -145,6 +145,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
@@ -154,6 +155,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0035-search-insert-position](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
