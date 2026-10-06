@@ -99,6 +99,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0072-edit-distance](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0087-scramble-string) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
@@ -204,6 +205,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0070-climbing-stairs](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0087-scramble-string) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Manacher
 |  |
