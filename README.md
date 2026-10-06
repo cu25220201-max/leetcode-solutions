@@ -44,6 +44,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +252,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0077-combinations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -302,6 +304,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0029-divide-two-integers](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
