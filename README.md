@@ -148,6 +148,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0079-word-search](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3225-maximum-score-from-grid-operations](https://github.com/cu25220201-max/leetcode-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 ## Binary Search
 |  |
@@ -249,6 +250,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 | [0032-longest-valid-parentheses](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1096-brace-expansion-ii](https://github.com/cu25220201-max/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -318,6 +320,7 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -359,4 +362,8 @@ All solutions in this repository are auto-pushed directly from LeetCode upon sub
 |  |
 | ------- |
 | [0079-word-search](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0079-word-search) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/cu25220201-max/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
